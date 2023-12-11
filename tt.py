@@ -17,7 +17,8 @@ for i in range(-20,21,3):
 plt.plot(love, y, color = c1, linestyle = s1, marker=m1)
 
 st.pyplot(fig)
-
+import sys
+sys.exit()
 
 
 
